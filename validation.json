@@ -1,0 +1,968 @@
+[
+  {
+    "font": 13,
+    "dark": 0,
+    "window": [
+      1366,
+      850
+    ],
+    "checks": [
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      },
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      }
+    ]
+  },
+  {
+    "font": 13,
+    "dark": 1,
+    "window": [
+      1366,
+      850
+    ],
+    "checks": [
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      },
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      }
+    ]
+  },
+  {
+    "font": 16,
+    "dark": 0,
+    "window": [
+      1366,
+      850
+    ],
+    "checks": [
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      },
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      }
+    ]
+  },
+  {
+    "font": 16,
+    "dark": 1,
+    "window": [
+      1366,
+      850
+    ],
+    "checks": [
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      },
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      }
+    ]
+  },
+  {
+    "font": 20,
+    "dark": 0,
+    "window": [
+      1600,
+      1000
+    ],
+    "checks": [
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      },
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      }
+    ]
+  },
+  {
+    "font": 20,
+    "dark": 1,
+    "window": [
+      1600,
+      1000
+    ],
+    "checks": [
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      },
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      }
+    ]
+  },
+  {
+    "font": 13,
+    "dark": 1,
+    "window": [
+      1024,
+      600
+    ],
+    "checks": [
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the tab dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      },
+      {
+        "pass": true,
+        "message": "The complete hostname is displayed"
+      },
+      {
+        "pass": true,
+        "message": "The hostname exercises a wrapping heading"
+      },
+      {
+        "pass": true,
+        "message": "accept has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "accept fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "accept is enabled"
+      },
+      {
+        "pass": true,
+        "message": "cancel has a visible size"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the window dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the dialog"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits vertically in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel fits horizontally in the browser window"
+      },
+      {
+        "pass": true,
+        "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate choice is returned"
+      },
+      {
+        "pass": true,
+        "message": "The remember setting is returned"
+      }
+    ]
+  }
+]
