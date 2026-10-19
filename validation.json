@@ -65,6 +65,26 @@
       },
       {
         "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
+      },
+      {
+        "pass": true,
         "message": "The certificate choice is returned"
       },
       {
@@ -126,6 +146,26 @@
       {
         "pass": true,
         "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
       },
       {
         "pass": true,
@@ -203,6 +243,26 @@
       },
       {
         "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
+      },
+      {
+        "pass": true,
         "message": "The certificate choice is returned"
       },
       {
@@ -264,6 +324,26 @@
       {
         "pass": true,
         "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
       },
       {
         "pass": true,
@@ -341,6 +421,26 @@
       },
       {
         "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
+      },
+      {
+        "pass": true,
         "message": "The certificate choice is returned"
       },
       {
@@ -402,6 +502,26 @@
       {
         "pass": true,
         "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
       },
       {
         "pass": true,
@@ -479,6 +599,26 @@
       },
       {
         "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
+      },
+      {
+        "pass": true,
         "message": "The certificate choice is returned"
       },
       {
@@ -540,6 +680,26 @@
       {
         "pass": true,
         "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
       },
       {
         "pass": true,
@@ -617,6 +777,26 @@
       },
       {
         "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
+      },
+      {
+        "pass": true,
         "message": "The certificate choice is returned"
       },
       {
@@ -678,6 +858,26 @@
       {
         "pass": true,
         "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
       },
       {
         "pass": true,
@@ -755,6 +955,26 @@
       },
       {
         "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
+      },
+      {
+        "pass": true,
         "message": "The certificate choice is returned"
       },
       {
@@ -816,6 +1036,26 @@
       {
         "pass": true,
         "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
       },
       {
         "pass": true,
@@ -893,6 +1133,26 @@
       },
       {
         "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
+      },
+      {
+        "pass": true,
         "message": "The certificate choice is returned"
       },
       {
@@ -954,6 +1214,26 @@
       {
         "pass": true,
         "message": "cancel is enabled"
+      },
+      {
+        "pass": true,
+        "message": "The certificate selector has a visible dropdown arrow"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow is not hidden"
+      },
+      {
+        "pass": true,
+        "message": "The dropdown arrow fits inside the selector"
+      },
+      {
+        "pass": true,
+        "message": "Both certificates are available in the menu"
+      },
+      {
+        "pass": true,
+        "message": "An alternate certificate can be selected"
       },
       {
         "pass": true,
