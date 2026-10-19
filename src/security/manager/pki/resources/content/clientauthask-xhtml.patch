@@ -1,0 +1,13 @@
+diff --git a/security/manager/pki/resources/content/clientauthask.xhtml b/security/manager/pki/resources/content/clientauthask.xhtml
+index 3fe13860c66912a83c4f2f803485efad7cd7cdb7..c43140771874361bd0b60e16def3fe10ee0d5e4c 100644
+--- a/security/manager/pki/resources/content/clientauthask.xhtml
++++ b/security/manager/pki/resources/content/clientauthask.xhtml
+@@ -48,7 +48,7 @@
+     <!-- The items in this menulist must never be sorted,
+      but remain in the order filled by the application
+ -->
+-    <menulist id="nicknames" native="true">
++    <menulist id="nicknames">
+       <menupopup />
+     </menulist>
+ 

@@ -11,22 +11,29 @@ add_task(async function test_client_auth_dialog_sizing() {
   const { PromptUtils } = ChromeUtils.importESModule(
     "resource://gre/modules/PromptUtils.sys.mjs"
   );
-  // This is a self-signed test certificate; no private key is needed or imported.
-  const response = await fetch(
-    getRootDirectory(gTestPath) + "client_auth_dialog.pem"
+  // Self-signed test certificates; no private keys are needed or imported.
+  const certDB = Cc["@mozilla.org/security/x509certdb;1"].getService(
+    Ci.nsIX509CertDB
   );
-  const pem = await response.text();
-  const cert = Cc["@mozilla.org/security/x509certdb;1"]
-    .getService(Ci.nsIX509CertDB)
-    .constructX509FromBase64(
-      pem.replace(/-----[^-]+-----/g, "").replace(/\s/g, "")
+  const certs = [];
+  for (const file of [
+    "client_auth_dialog.pem",
+    "client_auth_dialog_alternate.pem",
+  ]) {
+    const response = await fetch(getRootDirectory(gTestPath) + file);
+    const pem = await response.text();
+    certs.push(
+      certDB.constructX509FromBase64(
+        pem.replace(/-----[^-]+-----/g, "").replace(/\s/g, "")
+      )
     );
+  }
 
   for (const windowModal of [false, true]) {
     const retVals = { cert: null, rememberDuration: 2 };
     const args = PromptUtils.objectToPropBag({
       hostname: CLIENT_AUTH_HOSTNAME,
-      certArray: [cert],
+      certArray: certs,
       retVals,
     });
     const loaded = TestUtils.topicObserved("cert-dialog-loaded");
@@ -89,13 +96,55 @@ add_task(async function test_client_auth_dialog_sizing() {
         ok(!button.disabled, `${name} is enabled`);
       }
 
+      const selector = doc.getElementById("nicknames");
+      const marker = selector.shadowRoot.querySelector("dropmarker");
+      const markerRect = marker.getBoundingClientRect();
+      const selectorRect = selector.getBoundingClientRect();
+      ok(
+        markerRect.width > 0 && markerRect.height > 0,
+        "The certificate selector has a visible dropdown arrow"
+      );
+      is(
+        win.getComputedStyle(marker).visibility,
+        "visible",
+        "The dropdown arrow is not hidden"
+      );
+      ok(
+        markerRect.left >= selectorRect.left &&
+          markerRect.right <= selectorRect.right &&
+          markerRect.top >= selectorRect.top &&
+          markerRect.bottom <= selectorRect.bottom,
+        "The dropdown arrow fits inside the selector"
+      );
+
+      const popup = selector.menupopup;
+      const shown = new Promise(resolve => {
+        popup.addEventListener("popupshown", resolve, { once: true });
+      });
+      selector.open = true;
+      await shown;
+      is(selector.itemCount, 2, "Both certificates are available in the menu");
+      const chosen = new Promise(resolve => {
+        selector.addEventListener("command", resolve, { once: true });
+      });
+      popup.activateItem(selector.getItemAtIndex(1));
+      await chosen;
+      is(selector.selectedIndex, 1, "An alternate certificate can be selected");
+      await TestUtils.waitForCondition(
+        () =>
+          doc
+            .getElementById("clientAuthCertDetailsIssuedTo")
+            .textContent.includes(certs[1].subjectName),
+        "The details update to the selected certificate"
+      );
+
       const rememberDuration = windowModal ? 1 : 0;
       doc.getElementById("rememberSetting").value = rememberDuration;
       dialog.getButton(windowModal ? "accept" : "cancel").click();
       await closedPromise;
       is(
         retVals.cert,
-        windowModal ? cert : null,
+        windowModal ? certs[1] : null,
         "The certificate choice is returned"
       );
       is(

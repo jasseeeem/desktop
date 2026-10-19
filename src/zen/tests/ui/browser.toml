@@ -11,6 +11,7 @@ prefs = [
 ]
 support-files = [
   "client_auth_dialog.pem",
+  "client_auth_dialog_alternate.pem",
   "slow_load.sjs",
 ]
 
